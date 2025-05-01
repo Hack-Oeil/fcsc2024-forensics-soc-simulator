@@ -1,14 +1,14 @@
 # FCSC 2024 SOC Simulator 1/5 - Vecteur initial
 
-During the summer of 2022, an operator of vital importance (OIV) alerts the ANSSI because it believes it is the victim of a major cyber attack. The OIV’s security operation center (SOC) sends an export of its system collection over the last few days. Your job is to understand the attacker’s actions.
+Durant l’été 2022, un opérateur d’importance vitale (OIV) alerte l’ANSSI car il pense être victime d’une cyberattaque d’ampleur. Le security operation center (SOC) de l’OIV envoie à l’ANSSI un export de sa collecte système des derniers jours. Vous êtes chargé de comprendre les actions réalisées par l’attaquant.
 
-**Note:** The 5 parts are numbered in the chronological order of the attack, but it is not necessary to solve them in order.
+**Note :** Les 5 parties sont numérotées dans l’ordre chronologique de l’attaque mais il n’est pas nécessaire de les résoudre dans l’ordre.
 
 ----------------
 
-After the action seen in Part 1, the attacker steals the system credentials from memory. Find the GUID of the process performing this theft and the name of the file where he writes the stolen secrets.
+Retrouver le nom de la vulnérabilité et l’heure UTC de la première tentative d’exploitation de cette vulnérabilité.
 
-**Flag format (case insensitive):** *FCSC{EternalBlue|2021-11-27T17:38}*
+**Format du flag (insensible à la casse):** *FCSC{EternalBlue|2021-11-27T17:38}*
 
 
 

@@ -1,16 +1,17 @@
 # FCSC 2024 SOC Simulator 3/5 - Exfiltration
 
-During the summer of 2022, an operator of vital importance (OIV) alerts the ANSSI because it believes it is the victim of a major cyber attack. The OIV’s security operation center (SOC) sends an export of its system collection over the last few days. Your job is to understand the attacker’s actions.
+Durant l’été 2022, un opérateur d’importance vitale (OIV) alerte l’ANSSI car il pense être victime d’une cyberattaque d’ampleur. Le security operation center (SOC) de l’OIV envoie à l’ANSSI un export de sa collecte système des derniers jours. Vous êtes chargé de comprendre les actions réalisées par l’attaquant.
 
-**Note:** The 5 parts are numbered in the chronological order of the attack, but it is not necessary to solve them in order.
+**Note :** Les 5 parties sont numérotées dans l’ordre chronologique de l’attaque mais il n’est pas nécessaire de les résoudre dans l’ordre.
 
 ----------------
 
-Following on from what we have seen above, the attacker has collected a large amount of business data. Find the command used to collect this data.
+Dans la continuité de ce qui été vu précédemment, l’attaquant a collecté une quantité importante de données métier. Retrouver la commande qui a permis collecter de tous ces éléments.
 
-**Flag format:** *FCSC{sha256(<UTF8 command without line feed>)}*
 
-For example if the malicious command was *7z a "Stolen files.zip" C:\Windows\System32*, the flag would be *FCSC{91c79bc2fcb72bdc8ebf68a1f4d53d37e7b3933762b80278bdf6db14319c9948}*
+**Format du flag (insensible à la casse):** *FCSC{sha256(<UTF8 command without line feed>)}*
+
+Par exemple si la commande malveillante était *7z a "Stolen files.zip" C:\Windows\System32*, le flag serait *FCSC{91c79bc2fcb72bdc8ebf68a1f4d53d37e7b3933762b80278bdf6db14319c9948}*
 
 
 

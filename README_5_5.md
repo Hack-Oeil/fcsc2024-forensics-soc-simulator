@@ -1,14 +1,14 @@
 # FCSC 2024 SOC Simulator 5/5 - Vol de secret 2
 
-During the summer of 2022, an operator of vital importance (OIV) alerts the ANSSI because it believes it is the victim of a major cyber attack. The OIV’s security operation center (SOC) sends an export of its system collection over the last few days. Your job is to understand the attacker’s actions.
+Durant l’été 2022, un opérateur d’importance vitale (OIV) alerte l’ANSSI car il pense être victime d’une cyberattaque d’ampleur. Le security operation center (SOC) de l’OIV envoie à l’ANSSI un export de sa collecte système des derniers jours. Vous êtes chargé de comprendre les actions réalisées par l’attaquant.
 
-**Note:** The 5 parts are numbered in the chronological order of the attack, but it is not necessary to solve them in order.
+**Note :** Les 5 parties sont numérotées dans l’ordre chronologique de l’attaque mais il n’est pas nécessaire de les résoudre dans l’ordre.
 
 ----------------
 
-On the machine identified in part 4, the attacker steals the system secrets again. Find the GUID of the process carrying out this theft and the name of the file where he writes the stolen secrets.
+Sur la machine identifiée en partie 4, l’attaquant vole de nouveau les secrets du système. Retrouver le GUID du processus effectuant ce vol et le nom du fichier où il écrit les secrets volés.
 
-**Flag format (case insensitive):** *FCSC{6ccf8905-a033-4edc-8ed7-0a4b0a411e15|C:\Windows\Users\toto\Desktop\file.pdf}*
+**Format du flag (insensible à la casse):** *FCSC{6ccf8905-a033-4edc-8ed7-0a4b0a411e15|C:\Windows\Users\toto\Desktop\file.pdf}*
 
 
 Fichiers :
