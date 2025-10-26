@@ -21,7 +21,7 @@ Fichiers :
 
 Auteur : ribt
 
-Origine : [SOC Simulator 3/5 - Exfiltration](https://hackropole.fr/en/challenges/forensics/fcsc2024-forensics-soc-simulator-3/)
+Origine : [SOC Simulator 3/5 - Exfiltration](https://hackropole.fr/fr/challenges/forensics/fcsc2024-forensics-soc-simulator-3/)
 
 
 -----------
@@ -38,4 +38,4 @@ Mais voici comment installer ce CTF manuellement :
 -----------
 
 ## Sur le site officiel hackropole.fr
-> https://hackropole.fr/en/challenges/forensics/fcsc2024-forensics-soc-simulator-3/
+> https://hackropole.fr/fr/challenges/forensics/fcsc2024-forensics-soc-simulator-3/

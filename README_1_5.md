@@ -18,7 +18,7 @@ Fichiers :
 
 Auteur : ribt
 
-Origine : [SOC Simulator 1/5 - Vecteur initial](https://hackropole.fr/en/challenges/forensics/fcsc2024-forensics-soc-simulator-1/)
+Origine : [SOC Simulator 1/5 - Vecteur initial](https://hackropole.fr/fr/challenges/forensics/fcsc2024-forensics-soc-simulator-1/)
 
 
 -----------
@@ -35,4 +35,4 @@ Mais voici comment installer ce CTF manuellement :
 -----------
 
 ## Sur le site officiel hackropole.fr
-> https://hackropole.fr/en/challenges/forensics/fcsc2024-forensics-soc-simulator-1/
+> https://hackropole.fr/fr/challenges/forensics/fcsc2024-forensics-soc-simulator-1/

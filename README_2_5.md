@@ -17,7 +17,7 @@ Fichiers :
 
 Auteur : ribt
 
-Origine : [SOC Simulator 2/5 - Vol de secret 1](https://hackropole.fr/en/challenges/forensics/fcsc2024-forensics-soc-simulator-2/)
+Origine : [SOC Simulator 2/5 - Vol de secret 1](https://hackropole.fr/fr/challenges/forensics/fcsc2024-forensics-soc-simulator-2/)
 
 
 -----------
@@ -34,4 +34,4 @@ Mais voici comment installer ce CTF manuellement :
 -----------
 
 ## Sur le site officiel hackropole.fr
-> https://hackropole.fr/en/challenges/forensics/fcsc2024-forensics-soc-simulator-2/
+> https://hackropole.fr/fr/challenges/forensics/fcsc2024-forensics-soc-simulator-2/
